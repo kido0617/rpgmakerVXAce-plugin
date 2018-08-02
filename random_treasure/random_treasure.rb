@@ -9,8 +9,8 @@
 
 
 module RANDOMTREASURE
-  NAME_VAR = 1   #取得したアイテム名を格納する変数番号
-  ICON_VAR = 2   #取得したアイテムのアイコン番号を格納する変数番号
+  NAME_VAR = -1   #取得したアイテム名を格納する変数番号
+  ICON_VAR = -1   #取得したアイテムのアイコン番号を格納する変数番号
 end
 
 class Game_System
