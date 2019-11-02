@@ -1,7 +1,7 @@
 #===============================================================================
 # 2018/08/03 @kido0617
-# http://kido0617.github.io/
-# 詳細: http://kido0617.github.io/rpgmaker/2018-08-03-random-treasure-vxace
+# https://kido0617.github.io/
+# 詳細: https://kido0617.github.io/rpgmaker/2018-08-03-random-treasure-vxace
 # Ver.1.0
 #-------------------------------------------------------------------------------
 

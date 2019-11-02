@@ -1,7 +1,7 @@
 #===============================================================================
-# 2018/07/04 kido0617
-# http://kido0617.github.io/
-# 詳細: http://kido0617.github.io/rpgmaker/2018-07-05-debug-shortcut-vxace
+# 2018/07/04 @kido0617
+# https://kido0617.github.io/
+# 詳細: https://kido0617.github.io/rpgmaker/2018-07-05-debug-shortcut-vxace
 # Ver.1.0
 #-------------------------------------------------------------------------------
 
